@@ -1,0 +1,124 @@
+[
+  {
+    "ticker": "0050",
+    "name": "元大台灣50",
+    "date": "2026-04-25",
+    "aum": "",
+    "tags": [
+      "市值型"
+    ],
+    "color": "#4a9eff",
+    "price": null,
+    "holdings_count": 52,
+    "type": "passive"
+  },
+  {
+    "ticker": "0056",
+    "name": "元大高股息",
+    "date": "2026-04-25",
+    "aum": "",
+    "tags": [
+      "高股息"
+    ],
+    "color": "#4adfb8",
+    "price": null,
+    "holdings_count": 49,
+    "type": "passive"
+  },
+  {
+    "ticker": "006208",
+    "name": "富邦台50",
+    "date": "2026-04-25",
+    "aum": "",
+    "tags": [
+      "市值型",
+      "類0050"
+    ],
+    "color": "#60a5fa",
+    "price": null,
+    "holdings_count": 51,
+    "type": "passive"
+  },
+  {
+    "ticker": "00878",
+    "name": "國泰永續高股息",
+    "date": "2026-04-25",
+    "aum": "",
+    "tags": [
+      "高股息",
+      "ESG"
+    ],
+    "color": "#a78bfa",
+    "price": null,
+    "holdings_count": 30,
+    "type": "passive"
+  },
+  {
+    "ticker": "00919",
+    "name": "群益台灣精選高息",
+    "date": "2026-04-25",
+    "aum": "",
+    "tags": [
+      "高股息",
+      "季配"
+    ],
+    "color": "#f472b6",
+    "price": null,
+    "holdings_count": 41,
+    "type": "passive"
+  },
+  {
+    "ticker": "00981A",
+    "name": "主動統一台股增長",
+    "date": "2026-04-25",
+    "aum": "",
+    "tags": [
+      "主動式",
+      "統一"
+    ],
+    "color": "#34d399",
+    "price": null,
+    "holdings_count": 48,
+    "type": "active"
+  },
+  {
+    "ticker": "00982A",
+    "name": "主動群益台灣強棒",
+    "date": "2026-04-25",
+    "aum": "",
+    "tags": [
+      "主動式"
+    ],
+    "color": "#f87171",
+    "price": null,
+    "holdings_count": 57,
+    "type": "active"
+  },
+  {
+    "ticker": "00991A",
+    "name": "主動復華未來50",
+    "date": "2026-04-25",
+    "aum": "",
+    "tags": [
+      "主動式"
+    ],
+    "color": "#facc15",
+    "price": null,
+    "holdings_count": 45,
+    "type": "active"
+  },
+  {
+    "ticker": "00992A",
+    "name": "主動群益科技創新",
+    "date": "2026-04-25",
+    "aum": "",
+    "tags": [
+      "科技",
+      "主動式"
+    ],
+    "color": "#818cf8",
+    "price": null,
+    "holdings_count": 51,
+    "type": "active"
+  }
+]

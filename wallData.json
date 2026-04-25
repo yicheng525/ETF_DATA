@@ -1,0 +1,31 @@
+[
+  {
+    "from_label": "2026/04/23",
+    "to_label": "2026/04/24",
+    "added_stocks": [
+      {
+        "ticker": "5871",
+        "name": "中租-KY",
+        "etf_ticker": "00991A",
+        "etf_name": "主動復華未來50",
+        "color": "#facc15"
+      }
+    ],
+    "removed_stocks": [
+      {
+        "ticker": "3583",
+        "name": "辛耘",
+        "etf_ticker": "00981A",
+        "etf_name": "主動統一台股增長",
+        "color": "#34d399"
+      },
+      {
+        "ticker": "6442",
+        "name": "光紅建聖",
+        "etf_ticker": "00991A",
+        "etf_name": "主動復華未來50",
+        "color": "#facc15"
+      }
+    ]
+  }
+]
